@@ -1,4 +1,4 @@
-
+# 主要配置文件
 APP_ID = "wx6*****8122c6"   # 微信公众号ID
 MCH_ID = "149***412"           # 商户号ID
 API_KEY = "sbNCm1Jnev*****caT0hkGxFnC"   # APK密钥(在商户平台里可以找到)
