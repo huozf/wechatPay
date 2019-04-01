@@ -1,7 +1,7 @@
 package util;
 
 /**
- * 这里定义为接口，里面的变量就默认为public static
+ * 接口里面的变量默认为public static
  * @author huozf
  */
 public interface PayConfig {
